@@ -1,0 +1,6 @@
+N=39 nPV=9 nfunc=67
+N=118 nPV=53 nfunc=181
+N=300 nPV=68 nfunc=530
+N=3120 nPV=247   nfunc=5991
+N=2383 nPV=326   nfunc=4438
+N=9241 nPV=1444   nfunc=17036
